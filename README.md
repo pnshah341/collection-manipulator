@@ -160,12 +160,12 @@ Thank you for using Student Data Organizer!
 📸 Execution Summary
 
 Choice| Operation| Result
-1| Add Student| Student added successfully
-2| Display All Students| Student records displayed
-3| Update Student| Grade updated successfully
-4| Delete Student| Student deleted successfully
-5| Display Subjects| Unique subjects displayed
-6| Exit| Program exited successfully
+- 1| Add Student| Student added successfully
+- 2| Display All Students| Student records displayed
+- 3| Update Student| Grade updated successfully
+- 4| Delete Student| Student deleted successfully
+- 5| Display Subjects| Unique subjects displayed
+- 6| Exit| Program exited successfully
 
 Note: The outputs above represent the example execution of the program. Exact output formatting may vary depending on the code version and user input.
 
