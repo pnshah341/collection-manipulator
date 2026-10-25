@@ -201,7 +201,4 @@ Girish  Gondaliya
 
 The Student Data Organizer is a simple Python project designed to strengthen my understanding of collection manipulation and fundamental programming concepts through a practical, menu-driven application.
 
-⭐ If you find this project useful, feel free to explore the code and learn from it.
----
-
 ⭐ If you find this project useful, feel free to explore the code and learn from it
